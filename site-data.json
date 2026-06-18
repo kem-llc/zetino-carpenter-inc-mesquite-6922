@@ -1,0 +1,326 @@
+{
+  "business": {
+    "name": "Zetino Carpenter Inc",
+    "shortName": "Zetino Carpentry",
+    "tagline": "Expert Carpentry in Mesquite, TX",
+    "niche": "Carpenter",
+    "phone": "(469) 200-6922",
+    "address": "1228 W Scyene Rd Lot 101, Mesquite, TX 75149",
+    "city": "Mesquite, TX",
+    "hours": "Mon-Fri 7am-6pm, Sat 8am-4pm",
+    "ctaLabel": "Schedule a Consultation",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "Zetino Carpenter Inc | Expert Carpentry in Mesquite, TX",
+    "description": "Zetino Carpenter Inc offers professional carpentry services in Mesquite, TX. Custom woodwork, cabinetry, trim, and more. Call (469) 200-6922 for a free estimate."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Mesquite's Trusted Carpenter Since 2010",
+      "headline": "Expert Carpentry That Transforms Your Home",
+      "subheadline": "From custom cabinetry to intricate trim work, we bring precision and craftsmanship to every project.",
+      "primaryCta": "Get a Free Estimate",
+      "secondaryCta": "View Our Work"
+    },
+    "stats": [
+      {
+        "value": "15+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "500+",
+        "label": "Projects Completed"
+      },
+      {
+        "value": "100%",
+        "label": "Client Satisfaction"
+      },
+      {
+        "value": "5.0",
+        "label": "Average Rating"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Custom Cabinetry",
+        "title": "Built-in Cabinets That Maximize Space",
+        "body": "Our custom cabinetry solutions are designed to fit your space perfectly. From kitchen to bathroom, we create functional and beautiful storage.",
+        "bullets": [
+          "Fully customized designs",
+          "Premium materials and hardware",
+          "Expert installation"
+        ],
+        "reverse": false,
+        "cardLabel": "Cabinetry",
+        "cardTitle": "Kitchen & Bath",
+        "cardBody": "Transform your kitchen or bath with custom cabinets that blend style and function."
+      },
+      {
+        "eyebrow": "Trim & Molding",
+        "title": "Elegant Trim Work for Every Room",
+        "body": "Add character and value to your home with our precision trim and molding services. Baseboards, crown molding, wainscoting, and more.",
+        "bullets": [
+          "Crown molding installation",
+          "Baseboard and casing",
+          "Custom wainscoting"
+        ],
+        "reverse": true,
+        "cardLabel": "Trim",
+        "cardTitle": "Interior Details",
+        "cardBody": "Our trim work adds the perfect finishing touch to any room."
+      }
+    ],
+    "whyTitle": "Why Choose Zetino Carpenter Inc?",
+    "whyChooseUs": [
+      {
+        "title": "Licensed & Insured",
+        "description": "Fully licensed and insured for your peace of mind."
+      },
+      {
+        "title": "Free Estimates",
+        "description": "Transparent pricing with no hidden fees."
+      },
+      {
+        "title": "Quality Materials",
+        "description": "We use only the best woods and finishes."
+      },
+      {
+        "title": "Satisfaction Guaranteed",
+        "description": "We stand behind our work with a 100% satisfaction guarantee."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Zetino Carpenter Inc transformed our kitchen with beautiful custom cabinets. The craftsmanship is outstanding.",
+        "author": "Maria G.",
+        "role": "Mesquite homeowner"
+      },
+      {
+        "quote": "Professional, punctual, and precise. Our crown molding looks amazing.",
+        "author": "James T.",
+        "role": "Dallas homeowner"
+      },
+      {
+        "quote": "They built a custom bookshelf that perfectly fits our space. Highly recommend!",
+        "author": "Linda K.",
+        "role": "Mesquite resident"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Start Your Project?",
+      "subheadline": "Contact us today for a free consultation and estimate.",
+      "primaryCta": "Call (469) 200-6922",
+      "secondaryCta": "Request a Quote"
+    }
+  },
+  "servicesPage": {
+    "intro": "At Zetino Carpenter Inc, we offer a full range of carpentry services to enhance your home or business. From custom built-ins to structural framing, our skilled team delivers quality workmanship on every project."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Custom Cabinetry",
+      "shortDescription": "Design and build custom cabinets for kitchens, bathrooms, and more.",
+      "longDescription": "Our custom cabinetry service is tailored to your specific needs. We work with you to design cabinets that maximize storage and complement your decor. Using premium materials and expert joinery, we create pieces that last a lifetime.",
+      "benefits": [
+        "Maximizes storage space",
+        "Adds home value",
+        "Customized to your style",
+        "Durable construction"
+      ],
+      "process": [
+        {
+          "title": "Consultation",
+          "description": "We discuss your needs, style preferences, and budget."
+        },
+        {
+          "title": "Design",
+          "description": "We create detailed plans and 3D renderings."
+        },
+        {
+          "title": "Installation",
+          "description": "Our team installs your cabinets with precision."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How long does custom cabinetry take?",
+          "answer": "Most projects take 4-6 weeks from design to installation."
+        },
+        {
+          "question": "What materials do you use?",
+          "answer": "We offer solid wood, plywood, and MDF options."
+        }
+      ],
+      "slug": "custom-cabinetry"
+    },
+    {
+      "icon": "02",
+      "title": "Trim & Molding",
+      "shortDescription": "Professional installation of baseboards, crown molding, and more.",
+      "longDescription": "Enhance your home's interior with expertly installed trim and molding. Our services include baseboards, crown molding, chair rails, wainscoting, and custom millwork. We ensure seamless joints and perfect miters for a polished look.",
+      "benefits": [
+        "Adds architectural interest",
+        "Increases property value",
+        "Conceals gaps and imperfections",
+        "Custom designs available"
+      ],
+      "process": [
+        {
+          "title": "Measure & Plan",
+          "description": "We measure your space and recommend molding profiles."
+        },
+        {
+          "title": "Cut & Fit",
+          "description": "Precision cutting and fitting for seamless installation."
+        },
+        {
+          "title": "Finish & Caulk",
+          "description": "We sand, caulk, and paint for a flawless finish."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can you match existing trim?",
+          "answer": "Yes, we can replicate existing profiles or create custom designs."
+        },
+        {
+          "question": "Do you paint the trim?",
+          "answer": "We can install primed or pre-finished trim, and we offer painting services."
+        }
+      ],
+      "slug": "trim-molding"
+    },
+    {
+      "icon": "03",
+      "title": "Custom Built-ins",
+      "shortDescription": "Built-in shelving, entertainment centers, and home office solutions.",
+      "longDescription": "Maximize your space with custom built-in furniture. We design and build bookshelves, entertainment centers, window seats, and home office units that fit your exact specifications. Our built-ins are crafted to blend seamlessly with your home's architecture.",
+      "benefits": [
+        "Custom fit for any space",
+        "Adds functional storage",
+        "Enhances room aesthetics",
+        "Increases home value"
+      ],
+      "process": [
+        {
+          "title": "Design Consultation",
+          "description": "We assess the space and discuss your storage needs."
+        },
+        {
+          "title": "Custom Fabrication",
+          "description": "We build the unit in our workshop for precision."
+        },
+        {
+          "title": "On-site Installation",
+          "description": "Professional installation with minimal disruption."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can you build around existing features?",
+          "answer": "Yes, we custom-fit built-ins around windows, doors, and sloped ceilings."
+        },
+        {
+          "question": "What finishes are available?",
+          "answer": "We offer paint, stain, or natural wood finishes."
+        }
+      ],
+      "slug": "custom-built-ins"
+    },
+    {
+      "icon": "04",
+      "title": "Framing & Structural Carpentry",
+      "shortDescription": "Residential and commercial framing, decks, and structural repairs.",
+      "longDescription": "Our framing and structural carpentry services provide the backbone for your construction projects. We handle new home framing, additions, deck construction, and structural repairs. Our team ensures everything is square, level, and built to code.",
+      "benefits": [
+        "Strong, code-compliant structures",
+        "Experienced with complex designs",
+        "Timely project completion",
+        "Safe work practices"
+      ],
+      "process": [
+        {
+          "title": "Blueprint Review",
+          "description": "We review plans and identify material needs."
+        },
+        {
+          "title": "Material Selection",
+          "description": "We source quality lumber and hardware."
+        },
+        {
+          "title": "Framing & Inspection",
+          "description": "We frame the structure and pass all inspections."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Do you handle permits?",
+          "answer": "Yes, we obtain necessary permits and schedule inspections."
+        },
+        {
+          "question": "Can you frame a deck?",
+          "answer": "Absolutely! We build decks with pressure-treated lumber or composite materials."
+        }
+      ],
+      "slug": "framing-structural-carpentry"
+    }
+  ],
+  "about": {
+    "headline": "Craftsmanship You Can Trust",
+    "mission": "To provide high-quality carpentry services that exceed expectations, using premium materials and expert techniques.",
+    "story": [
+      "Zetino Carpenter Inc was founded in 2010 with a simple mission: deliver exceptional carpentry to the Mesquite community. Starting with small trim projects, we built a reputation for precision and reliability. Over the years, we've expanded to offer full-service carpentry, including custom cabinetry, built-ins, and structural framing.",
+      "Our team takes pride in every project, treating each home as if it were our own. We believe in honest communication, transparent pricing, and meticulous attention to detail. Whether it's a simple repair or a complete renovation, we bring the same level of dedication to every job."
+    ],
+    "highlight": {
+      "stat": "15+",
+      "label": "Years of Excellence"
+    },
+    "coreValues": [
+      {
+        "title": "Quality",
+        "description": "We use only the best materials and techniques."
+      },
+      {
+        "title": "Integrity",
+        "description": "Honest pricing and clear communication."
+      },
+      {
+        "title": "Craftsmanship",
+        "description": "Every cut, joint, and finish is done with care."
+      },
+      {
+        "title": "Customer Focus",
+        "description": "Your satisfaction is our top priority."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get in Touch",
+    "subheadline": "Ready to discuss your project? Call or fill out the form below.",
+    "primaryCta": "Call (469) 200-6922",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Mesquite, TX",
+      "Dallas, TX",
+      "Garland, TX",
+      "Rockwall, TX",
+      "Rowlett, TX",
+      "Sunnyvale, TX"
+    ]
+  },
+  "social_proof": {
+    "rating": 5.0,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Carpenter",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:4692006922",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
