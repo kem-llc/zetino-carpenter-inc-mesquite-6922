@@ -1,26 +1,26 @@
 {
   "business": {
     "name": "Zetino Carpenter Inc",
-    "shortName": "Zetino Carpenter",
-    "tagline": "Precision Carpentry, Lasting Impressions",
+    "shortName": "Zetino Carpentry",
+    "tagline": "Expert Craftsmanship for Mesquite Homes",
     "niche": "Carpenter",
     "phone": "(469) 200-6922",
     "address": "Done",
     "city": "Mesquite, TX",
-    "hours": "Mon-Fri 7am-6pm, Sat 8am-2pm",
+    "hours": "Mon-Fri 7am-5pm, Sat 8am-12pm",
     "ctaLabel": "Get a Free Estimate",
     "headerCta": "Call Now"
   },
   "seo": {
-    "title": "Expert Carpenter in Mesquite, TX | Zetino Carpenter Inc",
-    "description": "Zetino Carpenter Inc offers professional carpentry services in Mesquite, TX. From custom trim to full remodels, we deliver quality craftsmanship. Call (469) 200-6922 for a free estimate."
+    "title": "Zetino Carpenter Inc | Expert Carpentry in Mesquite, TX",
+    "description": "Trusted carpenter in Mesquite, TX. Custom trim, cabinets, decks, and more. Call (469) 200-6922 for a free estimate."
   },
   "home": {
     "hero": {
-      "eyebrow": "Mesquite's Trusted Carpentry Experts",
-      "headline": "Custom Carpentry That Elevates Your Home",
-      "subheadline": "From intricate crown molding to sturdy decks, we bring your vision to life with precision and care.",
-      "primaryCta": "Get a Free Quote",
+      "eyebrow": "Mesquite's Premier Carpenter",
+      "headline": "Custom Carpentry That Transforms Your Home",
+      "subheadline": "From custom cabinets to elegant decks, we bring precision and passion to every project.",
+      "primaryCta": "Get a Free Estimate",
       "secondaryCta": "View Our Work"
     },
     "stats": [
@@ -33,8 +33,8 @@
         "label": "Projects Completed"
       },
       {
-        "value": "99%",
-        "label": "Satisfied Clients"
+        "value": "98%",
+        "label": "Client Satisfaction"
       },
       {
         "value": "4.9",
@@ -43,273 +43,276 @@
     ],
     "featureSections": [
       {
-        "eyebrow": "Custom Trim & Molding",
-        "title": "Transform Your Interiors with Elegant Woodwork",
-        "body": "Our custom trim and molding services add character and value to any room. We specialize in crown molding, baseboards, wainscoting, and more, tailored to your style.",
+        "eyebrow": "Custom Cabinetry",
+        "title": "Built-In Beauty for Every Room",
+        "body": "Our custom cabinets maximize space and add timeless elegance to your kitchen, bathroom, or home office.",
         "bullets": [
-          "Precision installation for seamless joints",
-          "Wide selection of wood species and profiles",
-          "Enhances property value and curb appeal"
+          "Premium hardwoods and finishes",
+          "Fully customizable designs",
+          "Soft-close hardware standard",
+          "Free design consultation"
         ],
         "reverse": false,
-        "cardLabel": "Project Spotlight",
-        "cardTitle": "Victorian Living Room Makeover",
-        "cardBody": "Installed intricate crown molding and custom window casings, transforming a plain room into an elegant space."
+        "cardLabel": "Service Spotlight",
+        "cardTitle": "Custom Cabinets",
+        "cardBody": "Transform your storage with cabinets built to your exact specifications."
       },
       {
-        "eyebrow": "Outdoor Carpentry",
-        "title": "Build Your Dream Deck or Patio Cover",
-        "body": "Extend your living space outdoors with a custom deck, pergola, or patio cover. We use durable materials and expert techniques to create lasting beauty.",
+        "eyebrow": "Outdoor Living",
+        "title": "Decks & Patios Built to Last",
+        "body": "Create your perfect outdoor retreat with a custom deck or pergola, designed for Texas weather.",
         "bullets": [
-          "Custom designs for any backyard layout",
-          "Weather-resistant finishes for longevity",
-          "Seamless integration with existing structures"
+          "Pressure-treated lumber & composites",
+          "Custom layouts & built-in seating",
+          "Stain and seal for longevity",
+          "Permit assistance included"
         ],
         "reverse": true,
-        "cardLabel": "Project Spotlight",
-        "cardTitle": "Family Deck with Built-in Seating",
-        "cardBody": "Designed and built a multi-level deck with integrated benches and planters, perfect for entertaining."
+        "cardLabel": "Service Spotlight",
+        "cardTitle": "Deck Construction",
+        "cardBody": "Enjoy your backyard year-round with a durable, beautiful deck."
       }
     ],
     "whyTitle": "Why Choose Zetino Carpenter Inc?",
     "whyChooseUs": [
       {
-        "title": "Locally Owned & Operated",
-        "description": "We're proud to serve Mesquite and surrounding areas with a personal touch and deep community roots."
+        "title": "Local Expertise",
+        "description": "Proudly serving Mesquite and surrounding areas with knowledge of local building codes."
       },
       {
-        "title": "Attention to Detail",
-        "description": "Every cut, joint, and finish is meticulously crafted to exceed expectations."
+        "title": "Quality Materials",
+        "description": "We source only the best hardwoods, composites, and finishes for lasting beauty."
       },
       {
-        "title": "Reliable & Punctual",
-        "description": "We respect your time and property, showing up on schedule and cleaning up after every job."
+        "title": "Clean & Respectful",
+        "description": "We treat your home with care, leaving every job site spotless."
       },
       {
-        "title": "Free, No-Obligation Estimates",
-        "description": "Get a detailed quote upfront with no hidden fees or surprises."
+        "title": "Satisfaction Guaranteed",
+        "description": "Our work is backed by a 100% satisfaction guarantee – we won't rest until you're happy."
       }
     ],
     "testimonials": [
       {
-        "quote": "Zetino Carpenter transformed our outdated kitchen with custom cabinets and a beautiful island. The craftsmanship is outstanding!",
-        "author": "Maria L.",
-        "role": "Mesquite Homeowner"
+        "quote": "Zetino transformed our outdated kitchen with gorgeous custom cabinets. The craftsmanship is outstanding!",
+        "author": "Maria G.",
+        "role": "Mesquite homeowner"
       },
       {
-        "quote": "They built a stunning deck for our backyard. The team was professional, efficient, and the result is exactly what we wanted.",
-        "author": "James R.",
-        "role": "Sunnyvale Resident"
+        "quote": "They built a beautiful deck for us. Professional, on time, and the quality is top-notch.",
+        "author": "James T.",
+        "role": "Mesquite resident"
       },
       {
-        "quote": "I hired them for crown molding throughout my house. The attention to detail is second to none. Highly recommend!",
+        "quote": "I've hired many carpenters over the years, but Zetino is by far the best. Attention to detail is unmatched.",
         "author": "Linda K.",
-        "role": "Forney Homeowner"
+        "role": "Local business owner"
       }
     ],
     "cta": {
       "headline": "Ready to Start Your Project?",
-      "subheadline": "Contact us today for a free estimate and let's bring your vision to life.",
+      "subheadline": "Call us today for a free, no-obligation estimate.",
       "primaryCta": "Call (469) 200-6922",
-      "secondaryCta": "Request a Quote"
+      "secondaryCta": "Request a Quote Online"
     }
   },
   "servicesPage": {
-    "intro": "From custom cabinetry to outdoor structures, our comprehensive carpentry services are designed to enhance your home's beauty and functionality. Every project is handled with precision, quality materials, and a commitment to your satisfaction."
+    "intro": "From custom cabinetry to outdoor decks, Zetino Carpenter Inc offers a full range of carpentry services in Mesquite, TX. Every project is handled with precision, quality materials, and a commitment to your satisfaction."
   },
   "services": [
     {
       "icon": "01",
-      "title": "Custom Cabinetry",
-      "shortDescription": "Bespoke cabinets for kitchens, bathrooms, and more, built to your exact specifications.",
-      "longDescription": "Our custom cabinetry service delivers handcrafted cabinets that maximize storage and elevate your space. We work with you to design the perfect layout, choose premium woods, and ensure flawless installation. Whether you need a complete kitchen remodel or a custom entertainment center, we bring your vision to life.",
+      "title": "Custom Cabinets",
+      "shortDescription": "Beautiful, functional cabinets built to your exact specifications.",
+      "longDescription": "Our custom cabinetry service transforms your kitchen, bathroom, or any room with storage that's both beautiful and practical. We work with you to design and build cabinets that fit your space perfectly, using premium hardwoods and modern finishes. Every cabinet features soft-close hardware and meticulous craftsmanship.",
       "benefits": [
-        "Tailored designs to fit any space",
-        "High-quality solid wood construction",
-        "Soft-close hinges and drawers for durability",
-        "Enhances home value and organization"
+        "Maximizes storage space",
+        "Increases home value",
+        "Personalized design options",
+        "Durable, long-lasting construction"
       ],
       "process": [
         {
-          "title": "Consultation & Design",
-          "description": "We meet with you to discuss your needs, measure your space, and create a custom design plan."
+          "title": "Consultation",
+          "description": "We meet with you to understand your needs, style, and budget."
         },
         {
-          "title": "Crafting & Assembly",
-          "description": "Our skilled team builds your cabinets in-shop using premium materials and time-honored techniques."
+          "title": "Design & Planning",
+          "description": "Our team creates detailed plans and 3D renderings for your approval."
         },
         {
-          "title": "Professional Installation",
-          "description": "We install your cabinets with precision, ensuring level alignment and seamless integration."
+          "title": "Installation",
+          "description": "We build and install your cabinets with precision, ensuring a perfect fit."
         }
       ],
       "faqs": [
         {
-          "question": "What types of wood do you use for cabinets?",
-          "answer": "We offer a variety of hardwoods including oak, maple, cherry, and walnut, as well as premium plywood options."
+          "question": "How long does cabinet installation take?",
+          "answer": "Most kitchen cabinet projects take 2-4 weeks from design to installation, depending on complexity."
         },
         {
-          "question": "How long does a custom cabinet project take?",
-          "answer": "Timelines vary depending on complexity, but most projects are completed within 4-6 weeks from design approval."
+          "question": "Do you offer custom finishes?",
+          "answer": "Yes, we offer a wide range of stains, paints, and hardware options to match your style."
         }
       ],
-      "slug": "custom-cabinetry"
+      "slug": "custom-cabinets"
     },
     {
       "icon": "02",
-      "title": "Trim & Molding",
-      "shortDescription": "Add elegance with crown molding, baseboards, wainscoting, and custom trim.",
-      "longDescription": "Our trim and molding services bring architectural detail to any room. We specialize in crown molding, chair rails, picture frames, and custom wainscoting. Our precise miter cuts and seamless joints create a polished, high-end look that transforms ordinary spaces into extraordinary ones.",
+      "title": "Deck & Patio Construction",
+      "shortDescription": "Create your dream outdoor living space with a custom deck or patio.",
+      "longDescription": "Expand your living space outdoors with a custom deck or patio from Zetino Carpenter Inc. We design and build decks that complement your home and lifestyle, using pressure-treated lumber, composite materials, or a combination. Our decks include built-in seating, planters, and lighting options for the ultimate outdoor experience.",
       "benefits": [
-        "Enhances room aesthetics and value",
-        "Professional seamless installation",
-        "Wide range of profiles and styles",
-        "Paint-ready or stained finishes"
+        "Adds usable living space",
+        "Enhances curb appeal",
+        "Low-maintenance options available",
+        "Built to withstand Texas weather"
       ],
       "process": [
         {
-          "title": "Design Selection",
-          "description": "We help you choose molding profiles and layout that complement your home's style."
+          "title": "Site Evaluation",
+          "description": "We assess your yard, sun exposure, and soil conditions."
         },
         {
-          "title": "Precision Cutting & Fitting",
-          "description": "Our team cuts each piece with exact measurements for tight, gap-free joints."
+          "title": "Custom Design",
+          "description": "We create a deck layout that fits your space and needs."
         },
         {
-          "title": "Finishing Touches",
-          "description": "We sand, caulk, and prepare the surface for painting or staining, leaving a flawless finish."
+          "title": "Construction & Finish",
+          "description": "Our team builds your deck with care, applying stain or sealant for protection."
         }
       ],
       "faqs": [
         {
-          "question": "Can you match existing trim in my home?",
-          "answer": "Yes, we can replicate existing profiles or create custom designs to match your current trim."
+          "question": "What materials do you recommend for decks?",
+          "answer": "We recommend pressure-treated pine for affordability or composite for low maintenance."
         },
         {
-          "question": "Do you paint the trim as well?",
-          "answer": "We can install trim ready for paint or provide a painted finish upon request."
+          "question": "Do you handle permits?",
+          "answer": "Yes, we obtain all necessary permits for your deck project."
         }
       ],
-      "slug": "trim-molding"
+      "slug": "deck-patio-construction"
     },
     {
       "icon": "03",
-      "title": "Deck & Porch Building",
-      "shortDescription": "Custom outdoor living spaces built to last with quality materials.",
-      "longDescription": "Create your ideal outdoor retreat with a custom deck, porch, or pergola. We design and build structures that blend with your home's architecture and landscape. Using pressure-treated lumber, composite decking, or tropical hardwoods, we ensure durability and beauty for years to come.",
+      "title": "Trim & Crown Molding",
+      "shortDescription": "Add elegance and character with custom trim and molding.",
+      "longDescription": "Transform the look of any room with expertly installed trim, crown molding, and baseboards. Our trim work adds architectural interest and a finished look to your home. We offer a variety of profiles and wood species to match your decor, from simple colonial to ornate Victorian styles.",
       "benefits": [
-        "Increases living and entertaining space",
-        "Durable, weather-resistant construction",
-        "Customizable layouts with built-in features",
-        "Adds significant property value"
+        "Enhances room aesthetics",
+        "Increases property value",
+        "Hides imperfections",
+        "Customizable to any style"
       ],
       "process": [
         {
-          "title": "Site Assessment & Design",
-          "description": "We evaluate your yard, discuss your vision, and create a detailed plan with material options."
+          "title": "Measurement & Design",
+          "description": "We measure your rooms and help select molding profiles."
         },
         {
-          "title": "Foundation & Framing",
-          "description": "Our team installs a solid foundation and frames the structure to code for safety and longevity."
+          "title": "Cutting & Fitting",
+          "description": "Our carpenters precisely cut and fit each piece for seamless joints."
         },
         {
-          "title": "Decking & Finishing",
-          "description": "We lay decking boards, install railings, and apply protective sealant for a beautiful finish."
+          "title": "Installation & Finish",
+          "description": "We install and finish the trim with caulk, paint, or stain."
         }
       ],
       "faqs": [
         {
-          "question": "Do you use composite or wood decking?",
-          "answer": "We offer both options. Wood is traditional and cost-effective, while composite is low-maintenance and longer-lasting."
+          "question": "Can you match existing trim?",
+          "answer": "Yes, we can replicate existing profiles or create custom designs."
         },
         {
-          "question": "How long does it take to build a deck?",
-          "answer": "A typical deck project takes 1-2 weeks, depending on size and complexity."
+          "question": "How long does trim installation take?",
+          "answer": "A typical room takes 1-2 days, depending on complexity."
         }
       ],
-      "slug": "deck-porch-building"
+      "slug": "trim-crown-molding"
     },
     {
       "icon": "04",
-      "title": "General Carpentry & Repairs",
-      "shortDescription": "From door repairs to shelving, we handle all your woodwork needs.",
-      "longDescription": "Our general carpentry services cover a wide range of repairs and installations. Whether you need a door hung, shelves installed, or damaged woodwork repaired, we have the expertise to get the job done right. We treat every project, big or small, with the same dedication to quality.",
+      "title": "Custom Shelving & Built-ins",
+      "shortDescription": "Maximize space with custom shelving and built-in units.",
+      "longDescription": "Our custom shelving and built-in solutions turn empty walls into functional storage and display areas. Whether you need a home library, entertainment center, or closet system, we design and build units that fit your space perfectly. We use high-quality materials and finish options to match your existing decor.",
       "benefits": [
-        "Quick, reliable repairs",
-        "Expert installation of fixtures and hardware",
-        "Custom shelving and storage solutions",
-        "Fixes for squeaky floors, sticky doors, and more"
+        "Optimizes unused space",
+        "Creates a custom look",
+        "Adds storage and organization",
+        "Increases home value"
       ],
       "process": [
         {
-          "title": "Diagnosis & Estimate",
-          "description": "We inspect the issue, provide a clear explanation, and give a fixed price quote."
+          "title": "Needs Assessment",
+          "description": "We discuss your storage needs and design preferences."
         },
         {
-          "title": "Repair or Installation",
-          "description": "Our carpenter performs the work efficiently, using proper techniques and materials."
+          "title": "Design & Approval",
+          "description": "Our team creates a design with detailed measurements and material choices."
         },
         {
-          "title": "Cleanup & Final Check",
-          "description": "We clean the work area and ensure everything functions perfectly before leaving."
+          "title": "Build & Install",
+          "description": "We construct and install your shelving with precision and care."
         }
       ],
       "faqs": [
         {
-          "question": "Do you do small repair jobs?",
-          "answer": "Absolutely! No job is too small. We handle everything from fixing a cabinet door to patching wood rot."
+          "question": "What materials do you use for shelving?",
+          "answer": "We use plywood, solid wood, and MDF with various finishes."
         },
         {
-          "question": "Can you match existing wood finishes?",
-          "answer": "Yes, we can match stains and paints to blend repairs seamlessly with your existing woodwork."
+          "question": "Can you build around existing features?",
+          "answer": "Yes, we custom-fit shelving around windows, doors, and sloped ceilings."
         }
       ],
-      "slug": "general-carpentry-repairs"
+      "slug": "custom-shelving-built-ins"
     }
   ],
   "about": {
     "headline": "Crafting Quality Since 2008",
-    "mission": "To provide Mesquite and surrounding communities with exceptional carpentry services that combine traditional craftsmanship with modern techniques, ensuring every project adds beauty and value to your home.",
+    "mission": "To provide exceptional carpentry services that enhance homes and exceed expectations, with a focus on quality, integrity, and customer satisfaction.",
     "story": [
-      "Zetino Carpenter Inc was founded by Juan Zetino, a master carpenter with over 15 years of experience. Starting as a solo contractor, Juan built a reputation for meticulous work and honest service. What began as small repair jobs for neighbors grew into a full-service carpentry business serving homeowners throughout Mesquite, TX.",
-      "Today, our team continues that legacy. We take pride in every cut, joint, and finish, treating each home as if it were our own. Our commitment to quality, reliability, and customer satisfaction has made us a trusted name in local carpentry."
+      "Zetino Carpenter Inc was founded in 2008 with a simple mission: bring expert craftsmanship to Mesquite homes. What started as a one-man operation has grown into a trusted team of skilled carpenters, but our commitment to quality has never changed. We take pride in every cut, every joint, and every finish.",
+      "Over the years, we've completed hundreds of projects — from custom cabinets to outdoor decks — earning a reputation for reliability and attention to detail. We believe in building relationships as strong as the structures we create, and we treat every home like our own."
     ],
     "highlight": {
       "stat": "500+",
-      "label": "Happy Homes"
+      "label": "Projects Completed"
     },
     "coreValues": [
       {
         "title": "Craftsmanship",
-        "description": "We believe in doing the job right the first time, using time-honored techniques and the best materials."
+        "description": "We take pride in precise, high-quality work that stands the test of time."
       },
       {
         "title": "Integrity",
-        "description": "Honest pricing, clear communication, and respecting your home are the foundations of our business."
+        "description": "Honest pricing, clear communication, and doing what we promise."
       },
       {
         "title": "Customer Focus",
-        "description": "Your vision guides our work. We listen, advise, and deliver results that exceed expectations."
+        "description": "Your vision is our priority. We listen, advise, and deliver."
       },
       {
         "title": "Community",
-        "description": "As a local business, we're invested in making Mesquite a better place to live, one project at a time."
+        "description": "Proudly serving Mesquite and supporting our local community."
       }
     ]
   },
   "contact": {
-    "headline": "Get Your Free Estimate Today",
-    "subheadline": "Ready to start your project? Call or fill out the form below, and we'll get back to you within 24 hours.",
+    "headline": "Get in Touch",
+    "subheadline": "Ready to discuss your project? Call or fill out our form for a free estimate.",
     "primaryCta": "Call (469) 200-6922",
     "formCta": "Send Message",
     "serviceAreas": [
       "Mesquite, TX",
       "Dallas, TX",
       "Garland, TX",
-      "Sunnyvale, TX",
-      "Forney, TX",
       "Rockwall, TX",
-      "Rowlett, TX"
+      "Rowlett, TX",
+      "Forney, TX",
+      "Sunnyvale, TX",
+      "Balch Springs, TX"
     ]
   },
   "social_proof": {
